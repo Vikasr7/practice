@@ -7,8 +7,7 @@
 
 - 📫 How to reach me **LinkedIn- https://www.linkedin.com/in/vikas-r-40408020b/**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
